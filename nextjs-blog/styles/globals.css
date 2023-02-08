@@ -1,0 +1,184 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: all-round-gothic, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: #384237;
+}
+
+
+.navContainer {
+  position: fixed;
+  width: 100vw;
+  height: 10rem;
+  z-index: 100;
+  background-color: #ebe9d0;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 0px 10px #202e25;
+  box-sizing: border-box;
+}
+
+.navContainerScroll {
+  position: fixed;
+  width: 100vw;
+  height: 10rem;
+  z-index: 100;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.logo {
+  height: 8rem;
+  width: auto;
+}
+
+
+.navigator {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  width: 35rem;
+  font-size: 2.5rem;
+  color: #384237;
+}
+
+.navigatorScroll {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  background-color:#ebe9d0;
+  width: 35rem;
+  height: 7rem;
+  font-size: 2.5rem;
+  color: #384237;
+  box-shadow: 10px 10px 0px  #202e25;
+}
+
+.navItem:hover {
+  color: #F4A13C;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.mainContainer {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../public/topbg.jpg);
+  background-size: 45rem;
+  background-repeat: repeat-x;
+  background-position: bottom 0rem right 3rem;
+  box-sizing: border-box;
+}
+
+.fluff {
+  z-index: 50;
+  position: absolute;
+  text-align: center;
+  top: 15rem;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2.5rem;
+  color: #F4A13C;
+  text-shadow: 5px 5px 0px #772b0a;
+}
+
+.foodPoster {
+  margin-top: 20rem;
+  height: 50rem;
+  max-height: 50vh;
+  max-width: 100vw;
+  object-fit: cover;
+}
+
+.menuContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100rem;
+  background-color: #D8BEAD;
+  background-image: url(../public/menubg.jpeg);
+  background-size: 500px;
+  box-sizing: border-box;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  align-items: center;
+} 
+
+.menuItem {
+  font-size: 1.4rem;
+}
+
+.categoryContainer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 60rem;
+  height: 5rem;
+  background-color: #f3e2d6;
+  font-size: 2rem;
+  color: #384237;
+  box-shadow: 10px 10px 0px  #c69674;
+}
+
+.categoryButton:hover {
+  color: #F4A13C;
+}
+
+.categoryButtonActive {
+  color: #F4A13C;
+}
+
+.aboutContainer {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../public/businessbg.jpeg);
+  background-size: 500px;
+  box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 960px) {
+  .logo {
+    content: url(../public/logo-small.png);
+    height: 5rem;
+  }
+
+  .navContainer {
+    height: 5rem;
+  }
+  .navContainerScroll {
+    height: 5rem;
+  }
+
+  .navigator {
+    font-size: 1.8rem;
+  }
+  .navigatorScroll {
+    font-size: 1.8rem;
+    height: 5rem;
+  }
+
+  .categoryContainer {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    height: 50rem;
+  }
+}
