@@ -5,7 +5,7 @@ export default function MenuContainer(props) {
   return(
     <div className="menuContainer" ref={props.menuRef}>
       <CatSelector categories={category.keys()} setCat={setCat} currCat={currCat}/>
-      <div className="menuItem">
+      <div className="menuBox">
         {category.get(currCat)}
       </div>
     </div>

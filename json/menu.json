@@ -214,7 +214,7 @@
   "maki": {
     "y1": {
       "id": "Y1",
-      "name": "Plain Maki",
+      "name": "Plain Maki (1pc)",
       "price": "1.50",
       "accompaniment": "",
       "description": "fishcake, egg, radish",
@@ -223,7 +223,7 @@
     },
     "y2": {
       "id": "Y2",
-      "name": "Egg Maki",
+      "name": "Egg Maki (1pc)",
       "price": "1.99",
       "accompaniment": "",
       "description": "extra egg, fishcake, radish",
@@ -232,7 +232,7 @@
     },
     "y3": {
       "id": "Y3",
-      "name": "Kimchi Maki",
+      "name": "Kimchi Maki (1pc)",
       "price": "1.99",
       "accompaniment": "",
       "description": "kimchi, fishcake, egg",
@@ -241,7 +241,7 @@
     },
     "y4": {
       "id": "Y4",
-      "name": "Tuna Maki",
+      "name": "Tuna Maki (1pc)",
       "price": "1.99",
       "accompaniment": "",
       "description": "tuna, fishcake, egg",
@@ -250,7 +250,7 @@
     },
     "y5": {
       "id": "Y5",
-      "name": "Spicy Tuna Maki",
+      "name": "Spicy Tuna Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
       "description": "tuna, jalapeno, hot sauce, fishcake, egg",
@@ -259,7 +259,7 @@
     },
     "y6": {
       "id": "Y6",
-      "name": "Tuna Cheese Maki",
+      "name": "Tuna Cheese Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
       "description": "tuna, cream cheese, fishcake, egg",
@@ -268,7 +268,7 @@
     },
     "y7": {
       "id": "Y7",
-      "name": "Ham Maki",
+      "name": "Ham Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
       "description": "ham, fishcake, egg, radish",
@@ -277,7 +277,7 @@
     },
     "y8": {
       "id": "Y8",
-      "name": "Beef Bulgogi Maki",
+      "name": "Beef Bulgogi Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
       "description": "bulgogi, egg, fishcake, radish",
@@ -286,7 +286,7 @@
     },
     "y9": {
       "id": "Y9",
-      "name": "Spicy Squid Maki",
+      "name": "Spicy Squid Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
       "description": "cooked spicy squid, radish, jalapeno, hot sauce",

@@ -23,7 +23,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  box-shadow: 0px 0px 10px #202e25;
+  box-shadow: 0px 0px 15px 5px #202e25;
   box-sizing: border-box;
 }
 
@@ -66,7 +66,7 @@ body {
   height: 7rem;
   font-size: 2.5rem;
   color: #384237;
-  box-shadow: 10px 10px 0px  #202e25;
+  box-shadow: 15px 15px 0px  #121e1b;
 }
 
 .navItem:hover {
@@ -81,7 +81,7 @@ body {
   background-image: url(../public/topbg.jpg);
   background-size: 45rem;
   background-repeat: repeat-x;
-  background-position: bottom 0rem right 3rem;
+  background-position: top 0rem;
   box-sizing: border-box;
 }
 
@@ -89,12 +89,13 @@ body {
   z-index: 50;
   position: absolute;
   text-align: center;
-  top: 15rem;
+  width: 80vw;
+  top: 85%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 2.5rem;
+  font-size: 4rem;
   color: #F4A13C;
-  text-shadow: 5px 5px 0px #772b0a;
+  text-shadow: 3px 3px 0px #772b0a;
 }
 
 .foodPoster {
@@ -109,7 +110,8 @@ body {
   display: flex;
   flex-direction: column;
   width: 100vw;
-  height: 100rem;
+  height: auto;
+  min-height: 100vh;
   background-color: #D8BEAD;
   background-image: url(../public/menubg.jpeg);
   background-size: 500px;
@@ -121,8 +123,49 @@ body {
   align-items: center;
 } 
 
+.menuBox {
+  padding: 1.5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: white;
+  box-shadow: 15px 15px 0px  #69625b;
+  width: 80vw;
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(auto, 30rem));
+  gap: 1.5rem;
+  box-sizing: border-box;
+  justify-content: space-evenly;
+}
+
 .menuItem {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
+  padding: 1.5rem;
+  background-color: #f3e2d6;
+  color: rgb(54, 55, 54);
+  box-shadow: 10px 10px 0px  #c69674;
+  display: flex;
+  flex-direction: column;
+}
+
+.details {
+  font-size: .9rem;
+  color: rgb(101, 98, 98);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+#hot {
+  color:crimson;
+}
+.price {
+  text-align: end;
+  margin-top: auto;
+}
+
+.extra {
+  color: #dc8924;
 }
 
 .categoryContainer {
@@ -135,8 +178,12 @@ body {
   font-size: 2rem;
   color: #384237;
   box-shadow: 10px 10px 0px  #c69674;
+  margin-bottom: 3rem;
 }
 
+.categoryButton {
+  align-items: center;
+}
 .categoryButton:hover {
   color: #F4A13C;
 }

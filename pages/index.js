@@ -39,6 +39,7 @@ export default function Home() {
           accompaniment={allItems.accompaniment}
           description={allItems.description}
           hot={allItems.hot}
+          extra={allItems.extra}
         />);
       }
 
