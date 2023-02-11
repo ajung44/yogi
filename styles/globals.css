@@ -614,6 +614,12 @@ address {
   .galleryContainer {
     font-size: 2rem;
   }
+
+  .galleryContainer h2 {
+    text-align: center;
+    color: rgb(54, 55, 54);
+  }
+
   .gallery {
     grid-template-rows: repeat(2, 30vh);
     height: auto;
