@@ -5,7 +5,7 @@ export default function Item(props) {
 
   return (
     <div className="menuItem" identifier={ide}>
-      <div className="name" id={hot ? "hot" : "notHot"}>{ide}. {name}</div>
+      <div className="name" id={hot ? "hot" : "notHot"}><span className="inlineId">{ide}. </span>{name}</div>
       <div className="details">
         { accompaniment && <div className="accompaniment">Comes with {accompaniment}</div>}
         <div className="description">{description}</div>
