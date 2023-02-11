@@ -6,7 +6,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": false
+      "hot": false,
+      "pic": "D1.jpg"
     },
     "d2": {
       "id": "D2",
@@ -14,7 +15,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": false
+      "hot": false,
+      "pic": "D2.jpg"
     },
     "d3": {
       "id": "D3",
@@ -22,7 +24,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": false
+      "hot": false,
+      "pic": "D3.jpg"
     },
     "d4": {
       "id": "D4",
@@ -30,7 +33,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": false
+      "hot": false,
+      "pic": "D4.jpg"
     },
     "d5": {
       "id": "D5",
@@ -38,7 +42,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": false
+      "hot": false,
+      "pic": "D5.jpg"
     },
     "d6": {
       "id": "D6",
@@ -46,7 +51,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": false
+      "hot": false,
+      "pic": "D6.jpg"
     },
     "d7": {
       "id": "D7",
@@ -54,7 +60,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": false
+      "hot": false,
+      "pic": "D7.jpg"
     },
     "d8": {
       "id": "D8",
@@ -62,7 +69,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": true
+      "hot": true,
+      "pic": "D8.jpg"
     },
     "d9": {
       "id": "D9",
@@ -70,7 +78,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": true
+      "hot": true,
+      "pic": "D9.jpg"
     },
     "d10": {
       "id": "D10",
@@ -78,7 +87,8 @@
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
-      "hot": true
+      "hot": true,
+      "pic": "D10.jpg"
     }
   },
   "omelette": {
@@ -89,7 +99,8 @@
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
-      "hot": false
+      "hot": false,
+      "pic": "O1.jpg"
     },
     "o2": {
       "id": "O2",
@@ -98,7 +109,8 @@
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
-      "hot": false
+      "hot": false,
+      "pic": "O2.jpg"
     },
     "o3": {
       "id": "O3",
@@ -107,7 +119,8 @@
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
-      "hot": false
+      "hot": false,
+      "pic": "O3.jpg"
     },
     "o4": {
       "id": "O4",
@@ -116,7 +129,8 @@
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
-      "hot": false
+      "hot": false,
+      "pic": "O4.jpg"
     },
     "o5": {
       "id": "O5",
@@ -125,7 +139,8 @@
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
-      "hot": false
+      "hot": false,
+      "pic": "O5.jpg"
     },
     "o6": {
       "id": "O6",
@@ -134,7 +149,8 @@
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
-      "hot": true
+      "hot": true,
+      "pic": "O6.jpg"
     },
     "o7": {
       "id": "O7",
@@ -143,7 +159,8 @@
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
-      "hot": false
+      "hot": false,
+      "pic": "O7.jpg"
     },
     "o8": {
       "id": "O8",
@@ -152,7 +169,8 @@
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
-      "hot": true
+      "hot": true,
+      "pic": "O8.jpg"
     }
   },
   "meals": {
@@ -163,7 +181,8 @@
       "accompaniment": "corn soup",
       "description": "Cabbage, ham, american cheese, strawberry jam, Korean omelette with house sauce",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "M1.jpg"
     },
     "m2": {
       "id": "M2",
@@ -172,7 +191,8 @@
       "accompaniment": "white rice, cabbage salad and corn soup",
       "description": "Deep fried pork cutlet coated with Japanese breadcrumbs",
       "extra": "[ M3 ] Add Omelette Rice for extra $1.00",
-      "hot": false
+      "hot": false,
+      "pic": "M2.jpg"
     },
     "m4": {
       "id": "M4",
@@ -181,7 +201,8 @@
       "accompaniment": "",
       "description": "Rice cakes, fishcakes and cabbage with spicy sauce",
       "extra": "Add cheese for extra $4.00",
-      "hot": true
+      "hot": true,
+      "pic": "M4.jpg"
     },
     "m5": {
       "id": "M5",
@@ -190,7 +211,8 @@
       "accompaniment": "",
       "description": "Spicy broth chicken soup, onion, bokchoy, egg, pork with ramen noodles",
       "extra": "",
-      "hot": true
+      "hot": true,
+      "pic": "M5.jpg"
     },
     "m6": {
       "id": "M6",
@@ -199,7 +221,8 @@
       "accompaniment": "",
       "description": "Cabbage, bean sprout and ramen noodles with house spicy-sweet sauce",
       "extra": "",
-      "hot": true
+      "hot": true,
+      "pic": "M6.jpg"
     },
     "m7": {
       "id": "M7",
@@ -208,7 +231,8 @@
       "accompaniment": "",
       "description": "Fishcakes, fried tofu and udon noodles in anchovy broth with tempura flake and seaweed",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "M7.jpg"
     }
   },
   "maki": {
@@ -219,7 +243,8 @@
       "accompaniment": "",
       "description": "Fishcake, egg, radish",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "Y1.png"
     },
     "y2": {
       "id": "Y2",
@@ -302,7 +327,8 @@
       "accompaniment": "",
       "description": "Fried chicken thighs with almonds",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S1.jpg"
     },
     "s2": {
       "id": "S2",
@@ -311,7 +337,8 @@
       "accompaniment": "",
       "description": "Fried chicken thighs with almonds",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S2.jpg"
     },
     "s3": {
       "id": "S3",
@@ -320,7 +347,8 @@
       "accompaniment": "",
       "description": "",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S3.jpg"
     },
     "s4": {
       "id": "S4",
@@ -329,7 +357,8 @@
       "accompaniment": "",
       "description": "French fries topped with shredded cheese and bulgogi",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S4.jpg"
     },
     "s5": {
       "id": "S5",
@@ -338,7 +367,8 @@
       "accompaniment": "",
       "description": "",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S5.jpg"
     },
     "s6": {
       "id": "S6",
@@ -347,7 +377,8 @@
       "accompaniment": "",
       "description": "Deep fried glass noodles wrapped in seaweed",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S6.jpg"
     },
     "s7": {
       "id": "S7",
@@ -356,7 +387,8 @@
       "accompaniment": "",
       "description": "",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S7.jpg"
     },
     "s8": {
       "id": "S8",
@@ -365,7 +397,8 @@
       "accompaniment": "",
       "description": "",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S8.jpg"
     },
     "s9": {
       "id": "S9",
@@ -374,7 +407,8 @@
       "accompaniment": "",
       "description": "",
       "extra": "",
-      "hot": false
+      "hot": false,
+      "pic": "S9.jpg"
     }
   },
   "drinks": {
