@@ -401,8 +401,44 @@ address {
 }
 .galleryContainer {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
+  height: auto;
   background-color: #fbeee6;
+  font-size: 4vw;
+  padding-top: .5vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.gallery {
+  display: grid;
+  height: auto;
+  grid-auto-flow: column;
+  grid-template-rows: repeat(2, auto);
+  grid-template-columns: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+  align-items: center;
+  gap: 20px;
+  overflow-x: auto;
+  margin-bottom: 30px;
+}
+.gallery::-webkit-scrollbar {
+  display: none;
+}
+
+.galleryPic {
+  width: 20vw;
+  max-height: 30vh;
+  justify-self: center;
+  height: auto;
+  object-fit: contain;
+  transition: .5s;
+}
+
+.galleryPic:hover {
+  width: 35vw;
+  max-height: 40vh;
 }
 
 .usImg {
@@ -415,9 +451,6 @@ address {
   align-self: flex-end;
 }
 
-.galleryContainer {
-  display: none;
-}
 @media screen and (max-width: 960px) {
   .logo {
     content: url(../public/logo-small.png);
@@ -582,6 +615,21 @@ address {
     padding: .5rem;
     top: 18%;
     text-align: center;
+  }
+  .galleryContainer {
+    font-size: 2rem;
+  }
+  .gallery {
+    min-height: 70vh;
+  }
+  .galleryPic {
+    max-height: 25vh;
+    width: auto;
+  }
+
+  .galleryPic:hover {
+    width: auto;
+    max-height: 35vh;
   }
 }
 
