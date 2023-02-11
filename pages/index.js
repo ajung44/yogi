@@ -10,6 +10,8 @@ import AboutContainer from '../containers/AboutContainer';
 import NavContainer from '../containers/NavContainer';
 import logo from '../public/logo.png';
 import logoSmall from '../public/logo-small.png';
+import UsContainer from '../containers/UsContainer';
+import GalleryContainer from '../containers/GalleryContainer';
 
 export default function Home() {
   const [currCat, setCat] = useState("donburi");
@@ -68,7 +70,9 @@ export default function Home() {
       <main>
         <NavContainer scrollVal={scrollVal} imageSrc={(scrollVal > 50) ? logoSmall : logo} topRef={topRef} menuRef={menuRef} aboutRef={aboutRef}/>
         <MainContainer topRef={topRef} />
+        <UsContainer />
         <MenuContainer menuRef={menuRef} category={category} currCat={currCat} setCat={setCat}/>
+        <GalleryContainer />
         <AboutContainer aboutRef={aboutRef}/>
       </main>
     </div>

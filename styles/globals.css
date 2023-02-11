@@ -67,8 +67,7 @@ body {
   width: 3.5rem;
   height: 2.5rem;
   color: transparent;
-  box-shadow: 5px 5px 0px  #121e1b;
-  background-color: #ebe9d0;
+  background-color: rgb(255, 255, 255, .4);
   transition: 0.5s;
 }
 
@@ -133,7 +132,7 @@ body {
   text-align: center;
   font-size: 3.5rem;
   color: #F4A13C;
-  text-shadow: 3px 3px 0px #772b0a;
+  /* text-shadow: 3px 3px 0px #772b0a; */
 }
 
 .foodBG {
@@ -166,6 +165,12 @@ body {
   padding-right: 5rem;
   align-items: center;
 } 
+
+.menuContainer h2 {
+  text-align: center;
+  font-size: 3vw;
+  background-color: rgb(255,255,255,.8);
+}
 
 .menuBox {
   width: 80vw;
@@ -333,6 +338,54 @@ address {
   font-style: normal;
 }
 
+.usContainer {
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  background-color: #151918;
+  color:whitesmoke;
+  padding: 3rem;
+  font-size: 3vw;
+}
+
+.usContainer p {
+  font-size: 1.5vw;
+}
+
+.usLeft {
+  width: 60vw;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.usRight {
+  width: 40vw;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.galleryContainer {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fbeee6;
+}
+
+.usImg {
+  width: 15vw;
+  max-height: 70vh;
+  object-fit: cover;
+}
+
+#img2 {
+  align-self: flex-end;
+}
+
+.galleryContainer {
+  display: none;
+}
 @media screen and (max-width: 960px) {
   .logo {
     content: url(../public/logo-small.png);
@@ -365,6 +418,7 @@ address {
     width: 70vw;
     box-shadow: none;
     color: #384237;
+    background-color: #ebe9d0;
   }
 
   .navigatorScroll:hover {
@@ -453,6 +507,41 @@ address {
     color:rgb(82, 77, 77);
   }
 
+  .menuContainer h2 {
+    text-align: center;
+    font-size: 2.5rem;
+  }
+  
+  .usContainer {
+    flex-direction: column;
+    font-size: 1.7rem;
+    padding: .5rem;
+    height: auto;
+    min-height: 100vh;
+  }
+
+  .usContainer p {
+    font-size: 1rem;
+  }
+
+  .usLeft {
+    width: 95vw;
+    height: 60vh;
+    flex-direction: column;
+    align-content: space-evenly;
+  }
+
+  .usRight {
+    width: 95vw;
+    height: auto;
+    min-height: 40vh;
+    justify-content: flex-start;
+  }
+
+  .usImg {
+    width: 80vw;
+    max-height: 15vh;
+  }
 }
 
 @media screen and (min-width: 2560px  ) {
@@ -496,7 +585,7 @@ address {
   .menuContainer {
     background-size: 1500px;
   }
-
+  
   .categoryContainer {
     width: 80vw;
     height: 10vh;
