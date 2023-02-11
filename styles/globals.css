@@ -184,7 +184,7 @@ body {
   text-align: center;
   font-size: 3vw;
   padding: 2rem;
-  background-color: rgb(255,255,255,.8);
+  background-color: #FEF1E0 ;
 }
 
 .menuBox {
@@ -433,15 +433,8 @@ address {
   justify-self: center;
   height: auto;
   object-fit: contain;
-  transition: .5s;
 }
 
-@media screen and (min-width: 960px) {
-  .galleryPic:hover {
-    width: 35vw;
-    max-height: 40vh;
-  }
-}
 
 .usImg {
   width: 15vw;
@@ -622,6 +615,8 @@ address {
     font-size: 2rem;
   }
   .gallery {
+    grid-template-rows: repeat(2, 30vh);
+    height: auto;
   }
   .galleryPic {
     width: auto; 
