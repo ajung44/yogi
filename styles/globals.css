@@ -80,6 +80,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
 .navigatorScroll .navItem {
   display: none;
 }
@@ -355,12 +356,35 @@ address {
   }
 
   .navigatorScroll {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     font-size: 4vw;
     height: 3rem;
     width: 70vw;
     box-shadow: none;
+    color: #384237;
   }
 
+  .navigatorScroll:hover {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 4vw;
+    height: 3rem;
+    width: 70vw;
+    box-shadow: none;
+    color: #384237;
+  }
+
+  .navigatorScroll .navItem {
+    display: block;
+  }
+
+  .hamburger {
+    display: none;
+  }
+  
   .categoryContainer {
     display: grid;
     grid-template-columns: repeat(3, minmax(auto, 20vw));
