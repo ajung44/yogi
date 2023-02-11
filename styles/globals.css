@@ -436,9 +436,11 @@ address {
   transition: .5s;
 }
 
-.galleryPic:hover {
-  width: 35vw;
-  max-height: 40vh;
+@media screen and (min-width: 960px) {
+  .galleryPic:hover {
+    width: 35vw;
+    max-height: 40vh;
+  }
 }
 
 .usImg {
@@ -620,22 +622,14 @@ address {
     font-size: 2rem;
   }
   .gallery {
-    min-height: 80vh;
-    height: auto;
-    gap: 5px;
   }
   .galleryPic {
-    max-height: 25vh;
-    width: auto;
-  }
-
-  .galleryPic:hover {
-    width: auto;
-    max-height: 35vh;
+    width: auto; 
+    transition: none;
   }
 }
 
-@media screen and (min-width: 2560px  ) {
+@media screen and (min-width: 2560px) {
   .navContainer {
     height: 14rem;
   }
