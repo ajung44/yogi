@@ -5,7 +5,7 @@
       "name": "Shrimp Tempura Don (No Topping)",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false
     },
     "d2": {
@@ -13,7 +13,7 @@
       "name": "Braised Pork Belly Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false
     },
     "d3": {
@@ -21,7 +21,7 @@
       "name": "Grilled Beef Bulgogi Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false
     },
     "d4": {
@@ -29,7 +29,7 @@
       "name": "Grilled Chicken Thigh Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false
     },
     "d5": {
@@ -37,7 +37,7 @@
       "name": "Ovened Pork Rib Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false
     },
     "d6": {
@@ -45,7 +45,7 @@
       "name": "Grilled K-Meat Patties Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false
     },
     "d7": {
@@ -53,7 +53,7 @@
       "name": "Grilled Chicken Wing Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false
     },
     "d8": {
@@ -61,7 +61,7 @@
       "name": "Grilled Spicy Pork Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": true
     },
     "d9": {
@@ -69,7 +69,7 @@
       "name": "Spicy Beef Intestines Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": true
     },
     "d10": {
@@ -77,7 +77,7 @@
       "name": "Spicy Squid Don",
       "price": "14.99",
       "accompaniment": "corn soup and ssam",
-      "description": "topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
+      "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": true
     }
   },
@@ -161,7 +161,7 @@
       "name": "Yogi Toast",
       "price": "7.99",
       "accompaniment": "corn soup",
-      "description": "cabbage, ham, american cheese, strawberry jam, Korean omelette with house sauce",
+      "description": "Cabbage, ham, american cheese, strawberry jam, Korean omelette with house sauce",
       "extra": "",
       "hot": false
     },
@@ -170,7 +170,7 @@
       "name": "Donkatsu (Pork Cutlet)",
       "price": "14.99",
       "accompaniment": "white rice, cabbage salad and corn soup",
-      "description": "deep fried pork cutlet coated with Japanese breadcrumbs",
+      "description": "Deep fried pork cutlet coated with Japanese breadcrumbs",
       "extra": "[ M3 ] Add Omelette Rice for extra $1.00",
       "hot": false
     },
@@ -179,7 +179,7 @@
       "name": "Ddukbbokki (Spicy Rice Cake)",
       "price": "9.99",
       "accompaniment": "",
-      "description": "rice cakes, fishcakes and cabbage with spicy sauce",
+      "description": "Rice cakes, fishcakes and cabbage with spicy sauce",
       "extra": "Add cheese for extra $4.00",
       "hot": true
     },
@@ -188,7 +188,7 @@
       "name": "Ramen",
       "price": "10.99",
       "accompaniment": "",
-      "description": "spicy broth chicken soup, onion, bokchoy, egg, pork with ramen noodles",
+      "description": "Spicy broth chicken soup, onion, bokchoy, egg, pork with ramen noodles",
       "extra": "",
       "hot": true
     },
@@ -197,7 +197,7 @@
       "name": "Bibim Ramen",
       "price": "10.99",
       "accompaniment": "",
-      "description": "cabbage, bean sprout and ramen noodles with house spicy-sweet sauce",
+      "description": "Cabbage, bean sprout and ramen noodles with house spicy-sweet sauce",
       "extra": "",
       "hot": true
     },
@@ -206,7 +206,7 @@
       "name": "Udon",
       "price": "10.99",
       "accompaniment": "",
-      "description": "fishcakes, fried tofu and udon noodles in anchovy broth with tempura flake and seaweed",
+      "description": "Fishcakes, fried tofu and udon noodles in anchovy broth with tempura flake and seaweed",
       "extra": "",
       "hot": false
     }
@@ -217,7 +217,7 @@
       "name": "Plain Maki (1pc)",
       "price": "1.50",
       "accompaniment": "",
-      "description": "fishcake, egg, radish",
+      "description": "Fishcake, egg, radish",
       "extra": "",
       "hot": false
     },
@@ -226,7 +226,7 @@
       "name": "Egg Maki (1pc)",
       "price": "1.99",
       "accompaniment": "",
-      "description": "extra egg, fishcake, radish",
+      "description": "Extra egg, fishcake, radish",
       "extra": "",
       "hot": false
     },
@@ -235,7 +235,7 @@
       "name": "Kimchi Maki (1pc)",
       "price": "1.99",
       "accompaniment": "",
-      "description": "kimchi, fishcake, egg",
+      "description": "Kimchi, fishcake, egg",
       "extra": "",
       "hot": false
     },
@@ -244,7 +244,7 @@
       "name": "Tuna Maki (1pc)",
       "price": "1.99",
       "accompaniment": "",
-      "description": "tuna, fishcake, egg",
+      "description": "Tuna, fishcake, egg",
       "extra": "",
       "hot": false
     },
@@ -253,7 +253,7 @@
       "name": "Spicy Tuna Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
-      "description": "tuna, jalapeno, hot sauce, fishcake, egg",
+      "description": "Tuna, jalapeno, hot sauce, fishcake, egg",
       "extra": "",
       "hot": true
     },
@@ -262,7 +262,7 @@
       "name": "Tuna Cheese Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
-      "description": "tuna, cream cheese, fishcake, egg",
+      "description": "Tuna, cream cheese, fishcake, egg",
       "extra": "",
       "hot": false
     },
@@ -271,7 +271,7 @@
       "name": "Ham Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
-      "description": "ham, fishcake, egg, radish",
+      "description": "Ham, fishcake, egg, radish",
       "extra": "",
       "hot": false
     },
@@ -280,7 +280,7 @@
       "name": "Beef Bulgogi Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
-      "description": "bulgogi, egg, fishcake, radish",
+      "description": "Bulgogi, egg, fishcake, radish",
       "extra": "",
       "hot": false
     },
@@ -289,7 +289,7 @@
       "name": "Spicy Squid Maki (1pc)",
       "price": "2.50",
       "accompaniment": "",
-      "description": "cooked spicy squid, radish, jalapeno, hot sauce",
+      "description": "Cooked spicy squid, radish, jalapeno, hot sauce",
       "extra": "",
       "hot": true
     }
@@ -300,7 +300,7 @@
       "name": "Sweet & Spicy Fried Chicken Thighs",
       "price": "10.99",
       "accompaniment": "",
-      "description": "fried chicken thighs with almonds",
+      "description": "Fried chicken thighs with almonds",
       "extra": "",
       "hot": false
     },
@@ -309,7 +309,7 @@
       "name": "Soy-Garlic Fried Chicken Thighs",
       "price": "10.99",
       "accompaniment": "",
-      "description": "fried chicken thighs with almonds",
+      "description": "Fried chicken thighs with almonds",
       "extra": "",
       "hot": false
     },
@@ -345,7 +345,7 @@
       "name": "Kimmari Tempura (4pc)",
       "price": "6.99",
       "accompaniment": "",
-      "description": "deep fried glass noodles wrapped in seaweed",
+      "description": "Deep fried glass noodles wrapped in seaweed",
       "extra": "",
       "hot": false
     },

@@ -7,7 +7,7 @@ export default function Item(props) {
     <div className="menuItem" identifier={ide}>
       <div className="name" id={hot ? "hot" : "notHot"}>{ide}. {name}</div>
       <div className="details">
-        { accompaniment && <div className="accompaniment}">Comes with {accompaniment}</div>}
+        { accompaniment && <div className="accompaniment">Comes with {accompaniment}</div>}
         <div className="description">{description}</div>
         <div className="extra">{extra}</div>
       </div>
