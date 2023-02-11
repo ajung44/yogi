@@ -315,7 +315,7 @@ body {
 
 .findUs {
   position: absolute;
-  z-index: 200;
+  z-index: 50;
   top: -5%;
   left: -10%;
   width: 20rem;
