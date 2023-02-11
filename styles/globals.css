@@ -622,6 +622,7 @@ address {
   .gallery {
     min-height: 80vh;
     height: auto;
+    gap: 5px;
   }
   .galleryPic {
     max-height: 25vh;
