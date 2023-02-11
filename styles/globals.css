@@ -332,6 +332,7 @@ address {
   font-weight: 500;
   font-style: normal;
 }
+
 @media screen and (max-width: 960px) {
   .logo {
     content: url(../public/logo-small.png);
@@ -452,4 +453,75 @@ address {
     color:rgb(82, 77, 77);
   }
 
+}
+
+@media screen and (min-width: 2560px  ) {
+  .navContainer {
+    height: 14rem;
+  }
+  .navContainerScroll {
+    height: 14rem;
+  }
+
+  .logo {
+    height: 10rem;
+  }
+
+  .navigator {
+    font-size: 6rem;
+    width: 90rem;
+  }
+
+  .navigatorScroll {
+    width: 6.5rem;
+    height: 4.5rem;
+  }
+
+  .hamburger {
+    width: 75px;
+    height: 8px;
+    margin: 12px;
+  }
+
+  .navigatorScroll:hover {
+    width: 90rem; 
+    height: 16rem;
+    font-size: 6rem;
+  }
+
+  .fluff {
+    font-size: 4vw;
+  }
+
+  .menuContainer {
+    background-size: 1500px;
+  }
+
+  .categoryContainer {
+    width: 80vw;
+    height: 10vh;
+    font-size: 3vw;
+  }
+
+  .menuItem {
+    font-size: 1.5vw;
+  }
+
+  .aboutContainer {
+    background-size: 1500px;
+  }
+
+  .findUs {
+    left: -15%;
+    width: 15vw;
+    font-size: 1.5vw;
+  }
+
+  .aboutBG {
+    width: 35vw;
+  }
+
+  .aboutRight {
+    font-size: 1.2vw;
+  }
 }
