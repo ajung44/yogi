@@ -25,6 +25,8 @@ body {
   justify-content: space-between;
   box-shadow: 0px 0px 15px 5px #202e25;
   box-sizing: border-box;
+
+  transition: 0.5s;
 }
 
 .navContainerScroll {
@@ -40,6 +42,7 @@ body {
   align-items: center;
   justify-content: space-between;
   box-sizing: border-box;
+  transition: 1s;
 }
 
 .logo {
@@ -56,10 +59,36 @@ body {
   width: 35rem;
   font-size: 2.5rem;
   color: #384237;
+  transition: 0.5s;
 }
 
 .navigatorScroll {
   pointer-events: all;
+  width: 3.5rem;
+  height: 2.5rem;
+  color: transparent;
+  box-shadow: 5px 5px 0px  #121e1b;
+  background-color: #ebe9d0;
+  transition: 0.5s;
+}
+
+.hamburger {
+  width: 35px;
+  height: 5px;
+  background-color: #202e25;
+  margin: 6px 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navigatorScroll .navItem {
+  display: none;
+}
+
+.navigatorScroll:hover .hamburger {
+  display: none;
+}
+
+.navigatorScroll:hover {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -72,6 +101,9 @@ body {
   box-shadow: 10px 10px 0px  #121e1b;
 }
 
+.navigatorScroll:hover .navItem {
+  display:block;
+}
 .navItem:hover {
   color: #F4A13C;
   text-decoration: underline;
