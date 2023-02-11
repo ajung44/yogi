@@ -411,6 +411,7 @@ address {
 .galleryContainer h2 {
   margin-left: 60px;
 }
+
 .gallery {
   display: grid;
   height: auto;
@@ -619,6 +620,7 @@ address {
   }
 
   .galleryContainer h2 {
+    margin-left: 0;
     text-align: center;
     color: rgb(54, 55, 54);
   }
