@@ -69,7 +69,7 @@ body {
   height: 6rem;
   font-size: 2.5rem;
   color: #384237;
-  box-shadow: 15px 15px 0px  #121e1b;
+  box-shadow: 10px 10px 0px  #121e1b;
 }
 
 .navItem:hover {
@@ -121,6 +121,7 @@ body {
   flex-direction: column;
   width: 100vw;
   height: auto;
+  min-height: 100vh;
   background-color: #D8BEAD;
   background-image: url(../public/menubg.jpeg);
   background-size: 500px;
@@ -145,7 +146,7 @@ body {
 .menuItem {
   font-size: 180%;
   padding: 1.5rem;
-  background-color: #f3e2d6;
+  background-color: #FEF1E0;
   color: rgb(54, 55, 54);
   box-shadow: 10px 10px 0px  #c69674;
   display: flex;
@@ -211,7 +212,7 @@ body {
   align-items: center;
   width: 60rem;
   height: 5rem;
-  background-color: #f3e2d6;
+  background-color: #FEF1E0;
   font-size: 2rem;
   color: #384237;
   box-shadow: 10px 10px 0px  #c69674;
@@ -235,7 +236,8 @@ body {
 .aboutContainer {
   display: flex;
   width: 100vw;
-  height: 100vh;
+  height: auto;
+  min-height: 100vh;
   padding: 3rem;
   background-image: url(../public/businessbg.jpeg);
   background-size: 500px;
@@ -246,30 +248,56 @@ body {
 
 .findUs {
   position: absolute;
+  z-index: 200;
+  top: 0;
+  left: -10%;
+  width: 20rem;
+  font-size: 3rem;
+  background-color: white;
+  color: #F4A13C;
+  text-align: center;
+  padding: 2rem;
+  /* box-shadow: 10px 10px 0 rgb(54, 55, 54); */
 }
 .aboutBG {
+  z-index: 0;
+  position: relative;
   align-self: center;
   width: 40rem;
-  max-width: 35vw;
+  max-width: 40vw;
   height: 70vh;
   object-fit: cover;
   object-position: 60% 50%;
   border-radius: 10px;
 }
 .closed {
-  color: darkred;
+  color: rgb(232,0,0);
 }
 .aboutLeft {
+  display: flex;
+  position: relative;
+  flex-direction: column;
   padding: 2rem;
 }
+
 .aboutRight {
   padding: 2rem;
   text-align: center;
-  background-color: #384237;
-  color: #F4A13C;
+  background-color: white;
+  color: rgb(82, 77, 77);
+  /* box-shadow: 5px 5px 8px rgb(54, 55, 54); */
   font-size: 1.3rem;
 }
 
+.aboutRight h2 {
+  color: rgb(54, 55, 54)
+}
+
+address {
+  font-family: all-round-gothic, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
 @media screen and (max-width: 960px) {
   .logo {
     content: url(../public/logo-small.png);
@@ -367,10 +395,4 @@ body {
     color:rgb(82, 77, 77);
   }
 
-  address {
-
-  font-family: all-round-gothic, sans-serif;
-  font-weight: 500;
-  font-style: normal;
-  }
 }
