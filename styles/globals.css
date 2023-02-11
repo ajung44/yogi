@@ -218,16 +218,11 @@ body {
 }
 
 .menuPic {
-  z-index: 450;
   width: 5%;
   min-width: 1.2rem;
-  left: 90%;
-  top: 75%;
   height: auto;
   object-fit: cover;
   align-self: center;
-  margin-top: auto;
-  margin-right: 10px;
 }
 
 .price:hover {
@@ -270,6 +265,8 @@ body {
 .price {
   text-align: end;
   margin-top: auto;
+  display: flex;
+  justify-content: space-between;
 }
 
 .extra {
@@ -355,6 +352,7 @@ body {
   text-align: center;
   background-color: white;
   color: rgb(82, 77, 77);
+  min-width: 30vw;
   /* box-shadow: 5px 5px 8px rgb(54, 55, 54); */
   font-size: 1.3rem;
 }
@@ -433,6 +431,8 @@ address {
   justify-self: center;
   height: auto;
   object-fit: contain;
+  color: #384237
+  #F4A13C
 }
 
 

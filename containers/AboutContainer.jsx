@@ -32,7 +32,7 @@ export default function AboutContainer(props) {
           Sunday:<br/>11:00AM - 8:00PM<br/><br/>
 
           <h3>
-            Last order 30 minutes before closing time.
+            Last order at closing time.
           </h3>
         </div>
       </div>
