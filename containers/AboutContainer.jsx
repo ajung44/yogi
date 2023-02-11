@@ -6,7 +6,7 @@ export default function AboutContainer(props) {
     <section className="aboutContainer" ref={props.aboutRef}>
       <div className="aboutLeft">
         <div className="findUs">
-          Placeholder
+          Modernizing Traditional Asian flavors
         </div>
         <Image className="aboutBG"src={businessBG} alt="Duluth Korean Spicy Rice Cake Snack Food"/>
       </div>
