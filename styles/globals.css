@@ -408,6 +408,9 @@ address {
   flex-direction: column;
 }
 
+.galleryContainer h2 {
+  margin-left: 60px;
+}
 .gallery {
   display: grid;
   height: auto;
