@@ -620,7 +620,8 @@ address {
     font-size: 2rem;
   }
   .gallery {
-    min-height: 70vh;
+    min-height: 80vh;
+    height: auto;
   }
   .galleryPic {
     max-height: 25vh;
