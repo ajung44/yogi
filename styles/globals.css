@@ -198,6 +198,7 @@ body {
 }
 
 .menuItem {
+  position: relative;
   font-size: 180%;
   padding: 1.5rem;
   background-color: #FEF1E0;
@@ -211,14 +212,29 @@ body {
   display: none;
 }
 
+
 .name {
   width: 100%;
 }
-.name:hover {
+
+.menuPic {
+  z-index: 450;
+  width: 5%;
+  min-width: 1.2rem;
+  left: 90%;
+  top: 75%;
+  height: auto;
+  object-fit: cover;
+  align-self: center;
+  margin-top: auto;
+  margin-right: 10px;
+}
+
+.price:hover {
   cursor: pointer;
 }
 
-.name:hover + .foodThumb {
+.price:hover + .foodThumb {
   display: block;
   z-index: 150;
   position: fixed;
@@ -501,7 +517,7 @@ address {
     font-size: 0;
   }
 
-  .name:hover + .foodThumb {
+  .price:hover + .foodThumb {
     width: 80%;
     min-width: 10rem;
   }
