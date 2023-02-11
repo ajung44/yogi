@@ -59,7 +59,7 @@ export default function Home() {
 
     <div className={styles.container}>
       <Head>
-        <title>Yogi - Korean-American Fusion Restaurant at Suwanee, Georgia</title>
+        <title>Yogi - Asian-American Fusion Restaurant at Suwanee, Georgia</title>
         <link rel="icon" href="/logo-small.png" />
         <link rel="stylesheet" href="https://use.typekit.net/qiw3ifg.css"></link>
         <meta name="description" content="We serve the best Asian-American Fusion Food in Suwanee. Whether that's Donburi (Rice bowl), Maki rolls, Noodles, Tempura, Korean Omelettes, we aim to provide the best there is in Suwanee and all of Metro Atlanta area!"></meta>
