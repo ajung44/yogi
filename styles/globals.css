@@ -80,7 +80,8 @@ body {
 
 .mainContainer {
   width: 100vw;
-  height: 100vh;
+  height: auto;
+  min-height: 100vh;
   /* background-image: url(../public/topbg.jpg);
   background-size: 45rem;
   background-repeat: repeat-x;
@@ -239,7 +240,7 @@ body {
   height: auto;
   min-height: 100vh;
   padding: 3rem;
-  background-image: url(../public/businessbg.jpeg);
+  background-image: url(../public/businessbg.png);
   background-size: 500px;
   align-items: center;
   justify-content: space-evenly;
