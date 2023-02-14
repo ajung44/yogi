@@ -10,7 +10,7 @@ export default function NavContainer(props) {
         <div className="navItem" onClick={() => props.topRef.current.scrollIntoView()}>Top</div>
         <div className="navItem" onClick={() => props.menuRef.current.scrollIntoView()}>Menu</div>
         <div className="navItem" onClick={() => props.aboutRef.current.scrollIntoView()}>Location</div>
-        <div className="navItem">Order</div>
+        <a href="https://www.clover.com/online-ordering/yogi-suwanee" className="navItem" >Order</a>
         {props.scrollVal > 50 && <div className="hamburger"></div>}
         {props.scrollVal > 50 && <div className="hamburger"></div>}
         {props.scrollVal > 50 && <div className="hamburger"></div>}
