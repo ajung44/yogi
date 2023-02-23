@@ -16,7 +16,7 @@ export default function Item(props) {
       </div>
       <div className="price">
         {pic && <Image className="menuPic" src={picture} alt="view picture" />}
-        ${price}
+        {price && `$${price}`}
       </div>
       {pic && <Image className="foodThumb" src={require(`../public/${pic}`)} alt={name}/>}
     </div>

@@ -3,7 +3,7 @@
     "d1": {
       "id": "D1",
       "name": "Shrimp Tempura Don (No Topping)",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false,
@@ -12,7 +12,7 @@
     "d2": {
       "id": "D2",
       "name": "Braised Pork Belly Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false,
@@ -21,7 +21,7 @@
     "d3": {
       "id": "D3",
       "name": "Grilled Beef Bulgogi Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false,
@@ -30,7 +30,7 @@
     "d4": {
       "id": "D4",
       "name": "Grilled Chicken Thigh Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false,
@@ -39,7 +39,7 @@
     "d5": {
       "id": "D5",
       "name": "Ovened Pork Rib Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false,
@@ -48,7 +48,7 @@
     "d6": {
       "id": "D6",
       "name": "Grilled K-Meat Patties Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false,
@@ -57,7 +57,7 @@
     "d7": {
       "id": "D7",
       "name": "Grilled Chicken Wing Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": false,
@@ -66,7 +66,7 @@
     "d8": {
       "id": "D8",
       "name": "Grilled Spicy Pork Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": true,
@@ -75,7 +75,7 @@
     "d9": {
       "id": "D9",
       "name": "Spicy Beef Intestines Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": true,
@@ -84,7 +84,7 @@
     "d10": {
       "id": "D10",
       "name": "Spicy Squid Don",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
       "hot": true,
@@ -95,7 +95,7 @@
     "o1": {
       "id": "O1",
       "name": "Braised Pork Belly Omelette Rice",
-      "price": "15.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
@@ -105,7 +105,7 @@
     "o2": {
       "id": "O2",
       "name": "Grilled Chicken Wing Omelette Rice",
-      "price": "15.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
@@ -115,7 +115,7 @@
     "o3": {
       "id": "O3",
       "name": "Ovened Pork Rib Omelette Rice",
-      "price": "15.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
@@ -125,7 +125,7 @@
     "o4": {
       "id": "O4",
       "name": "Grilled Beef Bulgogi Omelette Rice",
-      "price": "15.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
@@ -135,7 +135,7 @@
     "o5": {
       "id": "O5",
       "name": "Grilled Chicken Thigh Omelette Rice",
-      "price": "15.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
@@ -145,7 +145,7 @@
     "o6": {
       "id": "O6",
       "name": "Grilled Spicy Pork Omelette Rice",
-      "price": "15.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
@@ -155,7 +155,7 @@
     "o7": {
       "id": "O7",
       "name": "Grilled Korean Meat Patties Omelette Rice",
-      "price": "15.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
@@ -165,7 +165,7 @@
     "o8": {
       "id": "O8",
       "name": "Spicy Beef Intestines Omelette Rice",
-      "price": "15.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
       "extra": "Kimchi Fried Rice extra $1.00",
@@ -177,7 +177,7 @@
     "m1": {
       "id": "M1",
       "name": "Yogi Toast",
-      "price": "7.99",
+      "price": "",
       "accompaniment": "corn soup",
       "description": "Cabbage, ham, american cheese, strawberry jam, Korean omelette with house sauce",
       "extra": "",
@@ -187,17 +187,27 @@
     "m2": {
       "id": "M2",
       "name": "Donkatsu (Pork Cutlet)",
-      "price": "14.99",
+      "price": "",
       "accompaniment": "white rice, cabbage salad and corn soup",
       "description": "Deep fried pork cutlet coated with Japanese breadcrumbs",
-      "extra": "[ M3 ] Add Omelette Rice for extra $1.00",
+      "extra": "",
       "hot": false,
       "pic": "M2.jpg"
+    },
+    "m3": {   
+      "id": "M3",
+      "name": "Donkatsu (Pork Cutlet) with Omelette Rice",
+      "price": "",
+      "accompaniment": "white rice, cabbage salad and corn soup",
+      "description": "Deep fried pork cutlet coated with Japanese breadcrumbs served with Omelette Rice",
+      "extra": "",
+      "hot": false,
+      "pic": ""   
     },
     "m4": {
       "id": "M4",
       "name": "Ddukbbokki (Spicy Rice Cake)",
-      "price": "9.99",
+      "price": "",
       "accompaniment": "",
       "description": "Rice cakes, fishcakes and cabbage with spicy sauce",
       "extra": "Add cheese for extra $4.00",
@@ -207,7 +217,7 @@
     "m5": {
       "id": "M5",
       "name": "Ramen",
-      "price": "10.99",
+      "price": "",
       "accompaniment": "",
       "description": "Spicy broth chicken soup, onion, bokchoy, egg, pork with ramen noodles",
       "extra": "",
@@ -217,7 +227,7 @@
     "m6": {
       "id": "M6",
       "name": "Bibim Ramen",
-      "price": "10.99",
+      "price": "",
       "accompaniment": "",
       "description": "Cabbage, bean sprout and ramen noodles with house spicy-sweet sauce",
       "extra": "",
@@ -227,7 +237,7 @@
     "m7": {
       "id": "M7",
       "name": "Udon",
-      "price": "10.99",
+      "price": "",
       "accompaniment": "",
       "description": "Fishcakes, fried tofu and udon noodles in anchovy broth with tempura flake and seaweed",
       "extra": "",
@@ -239,7 +249,7 @@
     "y1": {
       "id": "Y1",
       "name": "Plain Maki (1pc)",
-      "price": "1.50",
+      "price": "",
       "accompaniment": "",
       "description": "Fishcake, egg, radish",
       "extra": "",
@@ -249,7 +259,7 @@
     "y2": {
       "id": "Y2",
       "name": "Egg Maki (1pc)",
-      "price": "1.99",
+      "price": "",
       "accompaniment": "",
       "description": "Extra egg, fishcake, radish",
       "extra": "",
@@ -258,7 +268,7 @@
     "y3": {
       "id": "Y3",
       "name": "Kimchi Maki (1pc)",
-      "price": "1.99",
+      "price": "",
       "accompaniment": "",
       "description": "Kimchi, fishcake, egg",
       "extra": "",
@@ -267,7 +277,7 @@
     "y4": {
       "id": "Y4",
       "name": "Tuna Maki (1pc)",
-      "price": "1.99",
+      "price": "",
       "accompaniment": "",
       "description": "Tuna, fishcake, egg",
       "extra": "",
@@ -276,7 +286,7 @@
     "y5": {
       "id": "Y5",
       "name": "Spicy Tuna Maki (1pc)",
-      "price": "2.50",
+      "price": "",
       "accompaniment": "",
       "description": "Tuna, jalapeno, hot sauce, fishcake, egg",
       "extra": "",
@@ -285,7 +295,7 @@
     "y6": {
       "id": "Y6",
       "name": "Tuna Cheese Maki (1pc)",
-      "price": "2.50",
+      "price": "",
       "accompaniment": "",
       "description": "Tuna, cream cheese, fishcake, egg",
       "extra": "",
@@ -294,7 +304,7 @@
     "y7": {
       "id": "Y7",
       "name": "Ham Maki (1pc)",
-      "price": "2.50",
+      "price": "",
       "accompaniment": "",
       "description": "Ham, fishcake, egg, radish",
       "extra": "",
@@ -303,7 +313,7 @@
     "y8": {
       "id": "Y8",
       "name": "Beef Bulgogi Maki (1pc)",
-      "price": "2.50",
+      "price": "",
       "accompaniment": "",
       "description": "Bulgogi, egg, fishcake, radish",
       "extra": "",
@@ -312,7 +322,7 @@
     "y9": {
       "id": "Y9",
       "name": "Spicy Squid Maki (1pc)",
-      "price": "2.50",
+      "price": "",
       "accompaniment": "",
       "description": "Cooked spicy squid, radish, jalapeno, hot sauce",
       "extra": "",
@@ -322,20 +332,20 @@
   "side": {
     "s1": {
       "id": "S1",
-      "name": "Sweet & Spicy Fried Chicken Thighs",
-      "price": "10.99",
+      "name": "Sweet & Spicy Chicken Thighs",
+      "price": "",
       "accompaniment": "",
-      "description": "Fried chicken thighs with almonds",
+      "description": " Chicken thighs with almonds",
       "extra": "",
       "hot": false,
       "pic": "S1.jpg"
     },
     "s2": {
       "id": "S2",
-      "name": "Soy-Garlic Fried Chicken Thighs",
-      "price": "10.99",
+      "name": "Soy-Garlic Chicken Thighs",
+      "price": "",
       "accompaniment": "",
-      "description": "Fried chicken thighs with almonds",
+      "description": "Chicken thighs with almonds",
       "extra": "",
       "hot": false,
       "pic": "S2.jpg"
@@ -343,7 +353,7 @@
     "s3": {
       "id": "S3",
       "name": "French Fries",
-      "price": "4.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -353,7 +363,7 @@
     "s4": {
       "id": "S4",
       "name": "Cheese Bulgogi French Fries",
-      "price": "8.99",
+      "price": "",
       "accompaniment": "",
       "description": "French fries topped with shredded cheese and bulgogi",
       "extra": "",
@@ -363,7 +373,7 @@
     "s5": {
       "id": "S5",
       "name": "Fish Cake (1pc)",
-      "price": "2.00",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -373,7 +383,7 @@
     "s6": {
       "id": "S6",
       "name": "Kimmari Tempura (4pc)",
-      "price": "6.99",
+      "price": "",
       "accompaniment": "",
       "description": "Deep fried glass noodles wrapped in seaweed",
       "extra": "",
@@ -383,7 +393,7 @@
     "s7": {
       "id": "S7",
       "name": "Squid Tempura",
-      "price": "8.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -393,7 +403,7 @@
     "s8": {
       "id": "S8",
       "name": "Fried Dumplings",
-      "price": "7.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -403,7 +413,7 @@
     "s9": {
       "id": "S9",
       "name": "Sweet Potato Tempura",
-      "price": "7.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -415,7 +425,7 @@
     "dr1": {
       "id": "DR1",
       "name": "Coke, Diet Coke, Sprite, Fanta (Orange)",
-      "price": "1.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -424,7 +434,7 @@
     "dr2": {
       "id": "DR2",
       "name": "Lemonade",
-      "price": "3.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -433,7 +443,7 @@
     "dr3": {
       "id": "DR3",
       "name": "Iced Green Tea (plain)",
-      "price": "3.50",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -442,7 +452,7 @@
     "dr4": {
       "id": "DR4",
       "name": "Iced Green Tea (peach or mango)",
-      "price": "3.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -451,7 +461,7 @@
     "dr5": {
       "id": "DR5",
       "name": "Iced Tea (plain)",
-      "price": "3.50",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -460,7 +470,7 @@
     "dr6": {
       "id": "DR6",
       "name": "Iced Tea (peach or mango)",
-      "price": "3.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -469,7 +479,7 @@
     "dr7": {
       "id": "DR7",
       "name": "Dalgona Milk",
-      "price": "4.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
@@ -478,7 +488,7 @@
     "dr8": {
       "id": "DR8",
       "name": "Korean Iced Coffee",
-      "price": "4.99",
+      "price": "",
       "accompaniment": "",
       "description": "",
       "extra": "",
