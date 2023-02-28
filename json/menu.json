@@ -246,87 +246,105 @@
     }
   },
   "rolls": {
-    "y1": {
-      "id": "Y1",
-      "name": "Plain Roll (1pc)",
+    "r1": {
+      "id": "R1",
+      "name": "Plain Roll",
       "price": "",
       "accompaniment": "",
-      "description": "Fishcake, egg, radish",
+      "description": "egg, radish, cucumber, fishcake and carrots",
       "extra": "",
       "hot": false,
-      "pic": "Y1.png"
+      "pic": ""
     },
-    "y2": {
-      "id": "Y2",
-      "name": "Egg Roll (1pc)",
+    "r2": {
+      "id": "R2",
+      "name": "Spicy Roll",
       "price": "",
       "accompaniment": "",
-      "description": "Extra egg, fishcake, radish",
-      "extra": "",
-      "hot": false
-    },
-    "y3": {
-      "id": "Y3",
-      "name": "Kimchi Roll (1pc)",
-      "price": "",
-      "accompaniment": "",
-      "description": "Kimchi, fishcake, egg",
-      "extra": "",
-      "hot": false
-    },
-    "y4": {
-      "id": "Y4",
-      "name": "Tuna Roll (1pc)",
-      "price": "",
-      "accompaniment": "",
-      "description": "Tuna, fishcake, egg",
-      "extra": "",
-      "hot": false
-    },
-    "y5": {
-      "id": "Y5",
-      "name": "Spicy Tuna Roll (1pc)",
-      "price": "",
-      "accompaniment": "",
-      "description": "Tuna, jalapeno, hot sauce, fishcake, egg",
+      "description": "egg, radish, cucumber, fishcake, carrot, jalapeño, hot sauce",
       "extra": "",
       "hot": true
     },
-    "y6": {
-      "id": "Y6",
-      "name": "Tuna Cheese Roll (1pc)",
+    "r3": {
+      "id": "R3",
+      "name": "Tuna Roll",
       "price": "",
       "accompaniment": "",
-      "description": "Tuna, cream cheese, fishcake, egg",
+      "description": "egg, radish, fishcake, tuna, cucumber",
       "extra": "",
       "hot": false
     },
-    "y7": {
-      "id": "Y7",
-      "name": "Ham Roll (1pc)",
+    "r4": {
+      "id": "R4",
+      "name": "Tuna-Cheese Roll",
       "price": "",
       "accompaniment": "",
-      "description": "Ham, fishcake, egg, radish",
+      "description": "egg, radish, fishcake, cucumber, tuna, cream cheese, American cheese",
       "extra": "",
       "hot": false
     },
-    "y8": {
-      "id": "Y8",
-      "name": "Beef Bulgogi Roll (1pc)",
+    "r5": {
+      "id": "R5",
+      "name": "Spicy-Tuna Roll",
       "price": "",
       "accompaniment": "",
-      "description": "Bulgogi, egg, fishcake, radish",
-      "extra": "",
-      "hot": false
-    },
-    "y9": {
-      "id": "Y9",
-      "name": "Spicy Squid Roll (1pc)",
-      "price": "",
-      "accompaniment": "",
-      "description": "Cooked spicy squid, radish, jalapeno, hot sauce",
+      "description": "egg, radish, fishcake, cucumber, tuna, jalapeño, hot sauce",
       "extra": "",
       "hot": true
+    },
+    "r6": {
+      "id": "R6",
+      "name": "Kimchi Roll",
+      "price": "",
+      "accompaniment": "",
+      "description": "egg, radish, fishcake, carrot, kimchi",
+      "extra": "",
+      "hot": false
+    },
+    "r7": {
+      "id": "R7",
+      "name": "Beef Bulgogi Roll",
+      "price": "",
+      "accompaniment": "",
+      "description": "egg, radish, fishcake, carrot, bulgogi (marinated beef)",
+      "extra": "",
+      "hot": false
+    },
+    "r8": {
+      "id": "R8",
+      "name": "Beef Bulgogi-Kimchi Roll",
+      "price": "",
+      "accompaniment": "",
+      "description": "egg, radish, fishcake, carrot, bulgogi (marinated beef), kimchi",
+      "extra": "",
+      "hot": false
+    },
+    "r9": {
+      "id": "R9",
+      "name": "Squid Roll",
+      "price": "",
+      "accompaniment": "",
+      "description": "radish, cooked squid (spicy), cucumber",
+      "extra": "",
+      "hot": false
+    },
+    "r10": {
+      "id": "R10",
+      "name": "Spicy Squid Roll",
+      "price": "",
+      "accompaniment": "",
+      "description": "radish, cooked squid (spicy), cucumber, jalapeño, hot sauce",
+      "extra": "",
+      "hot": true
+    },
+    "r11": {
+      "id": "R11",
+      "name": "Ham Roll",
+      "price": "",
+      "accompaniment": "",
+      "description": "egg, radish, cucumber, fishcake, spam",
+      "extra": "",
+      "hot": false
     }
   },
   "side": {
