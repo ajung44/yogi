@@ -350,23 +350,23 @@
   "side": {
     "s1": {
       "id": "S1",
-      "name": "Sweet & Spicy Chicken Thighs",
+      "name": "COMING SOON",
       "price": "",
       "accompaniment": "",
-      "description": " Chicken thighs with almonds",
+      "description": "",
       "extra": "",
       "hot": false,
-      "pic": "S1.jpg"
+      "pic": ""
     },
     "s2": {
       "id": "S2",
-      "name": "Soy-Garlic Chicken Thighs",
+      "name": "COMING SOON",
       "price": "",
       "accompaniment": "",
-      "description": "Chicken thighs with almonds",
+      "description": "",
       "extra": "",
       "hot": false,
-      "pic": "S2.jpg"
+      "pic": ""
     },
     "s3": {
       "id": "S3",
