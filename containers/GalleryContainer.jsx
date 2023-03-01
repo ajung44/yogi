@@ -24,8 +24,6 @@ import M4 from "../public/M4.jpg";
 import M5 from "../public/M5.jpg";
 import M6 from "../public/M6.jpg";
 import M7 from "../public/M7.jpg";
-import S1 from "../public/S1.jpg";
-import S2 from "../public/S2.jpg";
 import S3 from "../public/S3.jpg";
 import S4 from "../public/S4.jpg";
 import S5 from "../public/S5.jpg";
@@ -64,8 +62,6 @@ export default function GalleryContainer(props) {
                 <Image className="galleryPic" src={M5} alt=""/>
                 <Image className="galleryPic" src={M6} alt=""/>
                 <Image className="galleryPic" src={M7} alt=""/>
-                <Image className="galleryPic" src={S1} alt=""/>
-                <Image className="galleryPic" src={S2} alt=""/>
                 <Image className="galleryPic" src={S3} alt=""/>
                 <Image className="galleryPic" src={S4} alt=""/>
                 <Image className="galleryPic" src={S5} alt=""/>
