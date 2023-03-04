@@ -38,7 +38,7 @@
     },
     "d5": {
       "id": "D5",
-      "name": "Ovened Pork Rib Don",
+      "name": "Grilled Pork Rib Don",
       "price": "",
       "accompaniment": "corn soup and ssam",
       "description": "Topped with egg, onion, cabbage, grilled jalapeno, kimchi and white rice seasoned with sesame oil salt and vinegar",
@@ -114,7 +114,7 @@
     },
     "o3": {
       "id": "O3",
-      "name": "Ovened Pork Rib Omelette Rice",
+      "name": "Grilled Pork Rib Omelette Rice",
       "price": "",
       "accompaniment": "corn soup",
       "description": "Fried rice (onion, mixed vegetable) covered with omelette",
