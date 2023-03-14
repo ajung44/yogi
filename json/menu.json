@@ -345,6 +345,24 @@
       "description": "egg, radish, cucumber, fishcake, spam",
       "extra": "",
       "hot": false
+    },
+    "r12": {
+      "id": "R12",
+      "name": "Spicy Pork Roll",
+      "price": "",
+      "accompaniment": "",
+      "description": "egg, radish, carrot, cucumber, fishcake, pork",
+      "extra": "",
+      "hot": false
+    },
+    "r13": {
+      "id": "R13",
+      "name": "Tonkatsu Roll",
+      "price": "",
+      "accompaniment": "",
+      "description": "Deep fried pork cutlet, cabbage, egg, radish, cucumber, house sauce",
+      "extra": "",
+      "hot": false
     }
   },
   "side": {
