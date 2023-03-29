@@ -280,10 +280,10 @@
     },
     "m6": {
       "id": "M6",
-      "name": "Bibim Ramen",
+      "name": "Jjolmyun (cold chewy noodles)",
       "price": "10.99",
       "accompaniment": "",
-      "description": "Cabbage, bean sprout and ramen noodles with house spicy-sweet sauce",
+      "description": "Cabbage, romaine lettuce and noodles with house spicy-sweet sauce",
       "extra": "",
       "hot": true,
       "pic": "M6.jpg"
