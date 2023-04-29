@@ -291,7 +291,7 @@
     "m7": {
       "id": "M7",
       "name": "Udon",
-      "price": "8.99",
+      "price": "9.99",
       "accompaniment": "",
       "description": "Fishcakes, fried tofu and udon noodles in anchovy broth with tempura flake and seaweed",
       "extra": "CHOOSE ONE: Pork Bulgogi / Spicy Pork / Beef Bulgogi / Chicken Bulgogi for EXTRA $3.00",
@@ -363,7 +363,7 @@
     "r7": {
       "id": "R7",
       "name": "Beef Bulgogi Roll",
-      "price": "8.99",
+      "price": "9.50",
       "accompaniment": "",
       "description": "egg, radish, fishcake, carrot, bulgogi (marinated beef)",
       "extra": "",
@@ -373,7 +373,7 @@
     "r8": {
       "id": "R8",
       "name": "Beef Bulgogi-Kimchi Roll",
-      "price": "9.50",
+      "price": "9.99",
       "accompaniment": "",
       "description": "egg, radish, fishcake, carrot, bulgogi (marinated beef), kimchi",
       "extra": "",
@@ -475,7 +475,7 @@
     "s5": {
       "id": "S5",
       "name": "Fish Cake (1pc)",
-      "price": "2.00",
+      "price": "2.50",
       "accompaniment": "",
       "description": "",
       "extra": "",
