@@ -291,7 +291,7 @@
     "m7": {
       "id": "M7",
       "name": "Udon",
-      "price": "9.99",
+      "price": "10.99",
       "accompaniment": "",
       "description": "Fishcakes, fried tofu and udon noodles in anchovy broth with tempura flake and seaweed",
       "extra": "CHOOSE ONE: Pork Bulgogi / Spicy Pork / Beef Bulgogi / Chicken Bulgogi for EXTRA $3.00",
@@ -505,7 +505,7 @@
     "s8": {
       "id": "S8",
       "name": "Fried Dumplings",
-      "price": "7.99",
+      "price": "9.99",
       "accompaniment": "",
       "description": "",
       "extra": "",
