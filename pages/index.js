@@ -61,7 +61,7 @@ export default function Home() {
     <>
       <Head>
         <title>Yogi - Asian-American Fusion Restaurant</title>
-        <meta name="description" content="Yogi is an Asian-American restaurant located in Suwanee, Georgia. Whether that's Donburi (Rice bowl), Maki rolls, Noodles, Tempura, Korean Omelettes, we aim to provide the best there is in not just Suwanee but all of the Metro Atlanta area." />
+        <meta name="description" content="Yogi is a Korean-American restaurant located in Suwanee, Georgia. Whether you want Donburi (Rice bowl), Maki rolls, Noodles, Tempura, Korean Omelettes, we aim to provide the best there is in not just Suwanee but all of the Metro Atlanta area." />
         <link rel="icon" href="/logo-small.png" />
         <link rel="stylesheet" href="https://use.typekit.net/qiw3ifg.css"></link>
       </Head>

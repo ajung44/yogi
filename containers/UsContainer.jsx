@@ -13,7 +13,7 @@ export default function UsContainer(props) {
             </div>
             <div className="usRight">
                 <h2>
-                    We're a family-owned business
+                    We're a family-owned restaurant
                 </h2>
                 <p>
                     We're local, and we strive to provide the best experience within Suwanee. Providing the best service with creative, affordable and delicious meal is our goal.
