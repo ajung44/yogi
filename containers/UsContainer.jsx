@@ -16,7 +16,7 @@ export default function UsContainer(props) {
                     We're a family-owned restaurant
                 </h2>
                 <p>
-                    We strive to provide the best Korean food in Suwanee, Georgia. Try our beef bulgogi Korean street toast, spicy simmered rice cake (tteobokki) or a classic gimbap (roll) with various fillings such as kimchi or tuna. How about our homemade Dalgona Milk drink? Whichever you choose, you won't be disappointed!
+                    We strive to provide the best Korean food in Suwanee, Georgia. Try our beef bulgogi Korean street toast, spicy simmered rice cake (tteobokki) or a classic kimbap (roll) with various fillings such as kimchi or tuna. How about our homemade Dalgona Milk drink? Whichever you choose, you won't be disappointed!
                 </p>
             </div>
         </div>
