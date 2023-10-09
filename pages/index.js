@@ -60,8 +60,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Yogi - Asian-American Restaurant</title>
-        <meta name="description" content="Korean restaurant located 80 Horizon Dr #201 Suwanee, GA 30024. We sell Donburi (Rice bowl) with Ssam, Gimbap (rolls with various fillings like Kimchi, Tuna, Cheese, Bulgogi, Tonkatsu, etc.), Ramyun, Udon, Tempura, Korean Omurice and more. Take your food to-go, or dine-in at our restaurant! No matter what you choose, you'll surely won't be disappointed with our wide ranges of casual Korean food we offer." />
+        <title>Yogi - Korean American Restaurant in Suwanee, Georgia</title>
+        <meta name="description" content="Korean restaurant located 80 Horizon Dr #201 Suwanee, Georgia 30024. We sell Donburi (Rice bowl) with Ssam, Gimbap (rolls with various fillings like Kimchi, Tuna, Cheese, Bulgogi, Tonkatsu, etc.), Ramyun, Udon, Tempura, Korean Omurice, Korean Toast Sandwich and more. Yogi is the perfect place for lunch or dinner. Take your food to-go, or dine-in at the restaurant! No matter what you choose, you'll surely won't be disappointed with our wide ranges of casual Korean food we offer. " />
         <link rel="icon" href="/logo-small.png" />
         <link rel="stylesheet" href="https://use.typekit.net/qiw3ifg.css"></link>
       </Head>
