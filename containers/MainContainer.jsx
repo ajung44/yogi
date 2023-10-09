@@ -8,7 +8,7 @@ export default function MainContainer(props) {
       <Image className="foodBG" src={bg} alt="SuwaneeBG"/>
       <section>Welcome to <span className="yogi">yogi</span></section>
       <Image className="foodPoster" src={food} alt="Korean Suwanee dinner picture"/>
-      <h1 className="fluff">The best Korean food you can find in Suwanee, Georgia</h1>
+      <h1 className="fluff">The best Korean food in Suwanee, Georgia</h1>
     </div>
   )
 };
