@@ -7,8 +7,8 @@ export default function MainContainer(props) {
     <div className="mainContainer" ref={props.topRef}>
       <Image className="foodBG" src={bg} alt="SuwaneeBG"/>
       <section>Welcome to <span className="yogi">yogi</span></section>
-      <Image className="foodPoster" src={food} alt="Korean Atlanta dinner picture"/>
-      <h1 className="fluff">We serve the modern Korean cuisine you deserve</h1>
+      <Image className="foodPoster" src={food} alt="Korean Suwanee dinner picture"/>
+      <h1 className="fluff">The best Korean food you can find in Suwanee, Georgia</h1>
     </div>
   )
 };
