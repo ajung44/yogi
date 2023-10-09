@@ -16,7 +16,7 @@ export default function UsContainer(props) {
                     We're a family-owned restaurant
                 </h2>
                 <p>
-                    We're local, and we strive to provide the best Korean food within Suwanee, Georgia. Try our Bulgogi Korean Street Toast, or maybe spicy simmered rice cake (tteobokki)? How about our homemade Dalgona Milk drink?.
+                    We strive to provide the best Korean food in Suwanee, Georgia. Try our Bulgogi Korean Street Toast, or spicy simmered rice cake (tteobokki). How about our homemade Dalgona Milk drink? Whichever you choose, you won't be disappointed!
                 </p>
             </div>
         </div>
