@@ -15,9 +15,11 @@ export default function AboutContainer(props) {
           <h2>
             Our Location:
           </h2>
-          80 Horizon Dr #201
+          <span id="address">80 Horizon Dr #201</span>
           <br />
           Suwanee, GA 30024 
+          <br/>
+          <span id="phoneNum">(678) 926-3019</span>
         </address>
         <div className="businessHours">
           <h2>

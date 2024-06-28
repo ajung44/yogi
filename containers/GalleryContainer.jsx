@@ -38,36 +38,36 @@ export default function GalleryContainer(props) {
                 THE GALLERY
             </h2>
             <div className="gallery">
-                <Image className="galleryPic" src={D1} alt=""/>
-                <Image className="galleryPic" src={D2} alt=""/>
-                <Image className="galleryPic" src={D3} alt=""/>
-                <Image className="galleryPic" src={D4} alt=""/>
-                <Image className="galleryPic" src={D5} alt=""/>
-                <Image className="galleryPic" src={D6} alt=""/>
-                <Image className="galleryPic" src={D7} alt=""/>
-                <Image className="galleryPic" src={D8} alt=""/>
-                <Image className="galleryPic" src={D9} alt=""/>
-                <Image className="galleryPic" src={D10} alt=""/>
-                <Image className="galleryPic" src={O1} alt=""/>
-                <Image className="galleryPic" src={O2} alt=""/>
-                <Image className="galleryPic" src={O3} alt=""/>
-                <Image className="galleryPic" src={O4} alt=""/>
-                <Image className="galleryPic" src={O5} alt=""/>
-                <Image className="galleryPic" src={O6} alt=""/>
-                <Image className="galleryPic" src={O7} alt=""/>
-                <Image className="galleryPic" src={O8} alt=""/>
-                <Image className="galleryPic" src={M1} alt=""/>
-                <Image className="galleryPic" src={M2} alt=""/>
-                <Image className="galleryPic" src={M4} alt=""/>
-                <Image className="galleryPic" src={M5} alt=""/>
-                <Image className="galleryPic" src={M6} alt=""/>
-                <Image className="galleryPic" src={M7} alt=""/>
-                <Image className="galleryPic" src={S3} alt=""/>
-                <Image className="galleryPic" src={S4} alt=""/>
-                <Image className="galleryPic" src={S5} alt=""/>
-                <Image className="galleryPic" src={S6} alt=""/>
-                <Image className="galleryPic" src={S7} alt=""/>
-                <Image className="galleryPic" src={S8} alt=""/>
+                <Image className="galleryPic" src={D1} alt="Shrimp Tempura Don"/>
+                <Image className="galleryPic" src={D2} alt="Braised Pork Belly Don"/>
+                <Image className="galleryPic" src={D3} alt="Grilled Beef Bulgogi Don"/>
+                <Image className="galleryPic" src={D4} alt="Grilled Chicken Thigh Don"/>
+                <Image className="galleryPic" src={D5} alt="Grilled Pork Rib Don"/>
+                <Image className="galleryPic" src={D6} alt="Grilled K-Meat Patties Don"/>
+                <Image className="galleryPic" src={D7} alt="Grilled Chicken Wing Don"/>
+                <Image className="galleryPic" src={D8} alt="Grilled Spicy Pork Don"/>
+                <Image className="galleryPic" src={D9} alt="Spicy Beef Intestines Don"/>
+                <Image className="galleryPic" src={D10} alt="Spicy Squid Don"/>
+                <Image className="galleryPic" src={O1} alt="Braised Pork Belly Omelette Rice"/>
+                <Image className="galleryPic" src={O2} alt="Grilled Chicken Wing Omelette Rice"/>
+                <Image className="galleryPic" src={O3} alt="Grilled Pork Rib Omelette Rice"/>
+                <Image className="galleryPic" src={O4} alt="Grilled Beef Bulgogi Omelette Rice"/>
+                <Image className="galleryPic" src={O5} alt="Grilled Chicken Thigh Omelette Rice"/>
+                <Image className="galleryPic" src={O6} alt="Grilled Spicy Pork Omelette Rice"/>
+                <Image className="galleryPic" src={O7} alt="Grilled Korean Meat Patties Omelette Rice"/>
+                <Image className="galleryPic" src={O8} alt="Spicy Beef Intestines Omelette Rice"/>
+                <Image className="galleryPic" src={M1} alt="Yogi Toast"/>
+                <Image className="galleryPic" src={M2} alt="Donkatsu (Pork Cutlet)"/>
+                <Image className="galleryPic" src={M4} alt="Ddukbbokki (Spicy Rice Cake)"/>
+                <Image className="galleryPic" src={M5} alt="Ramen"/>
+                <Image className="galleryPic" src={M6} alt="Jjolmyun (cold chewy noodles)"/>
+                <Image className="galleryPic" src={M7} alt="Udon"/>
+                <Image className="galleryPic" src={S3} alt="French Fries"/>
+                <Image className="galleryPic" src={S4} alt="Cheese Bulgogi French Fries"/>
+                <Image className="galleryPic" src={S5} alt="Fish Cake"/>
+                <Image className="galleryPic" src={S6} alt="Kimmari Tempura"/>
+                <Image className="galleryPic" src={S7} alt="Squid Tempura"/>
+                <Image className="galleryPic" src={S8} alt="Fried Dumplings"/>
             </div>
         </div>
     )
