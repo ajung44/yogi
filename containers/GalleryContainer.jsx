@@ -38,7 +38,7 @@ export default function GalleryContainer(props) {
                 THE GALLERY
             </h2>
             <div className="gallery">
-                <Image className="galleryPic" src={D1} alt="Shrimp Tempura Don"/>
+                <Image className="galleryPic" loading="lazy" src={D1} alt="Shrimp Tempura Don"/>
                 <Image className="galleryPic" src={D2} alt="Braised Pork Belly Don"/>
                 <Image className="galleryPic" src={D3} alt="Grilled Beef Bulgogi Don"/>
                 <Image className="galleryPic" src={D4} alt="Grilled Chicken Thigh Don"/>
