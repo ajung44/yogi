@@ -1,6 +1,6 @@
-import food from "../public/food.jpeg"
+import food from "../src/assets/food.jpeg"
 import Image from "next/image"
-import bg from "../public/topbg.jpg"
+import bg from "../src/assets/topbg.jpg"
 
 export default function MainContainer(props) {
   return(

@@ -1,5 +1,5 @@
-import logo from "../public/logo.png";
-import logoSmall from "../public/logo-small.png"
+import logo from "../src/assets/logo.png";
+import logoSmall from "../src/assets/logo-small.png"
 import Image from 'next/image';
 
 export default function NavContainer(props) {

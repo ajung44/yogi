@@ -1,5 +1,5 @@
 import Image from "next/image";
-import businessBG from "../public/locationbg.jpeg"
+import businessBG from "../src/assets/locationbg.jpeg"
 
 export default function AboutContainer(props) {
   return(

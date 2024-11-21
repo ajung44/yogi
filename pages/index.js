@@ -8,8 +8,8 @@ import MainContainer from '../containers/MainContainer';
 import MenuContainer from '../containers/MenuContainer';
 import AboutContainer from '../containers/AboutContainer';
 import NavContainer from '../containers/NavContainer';
-import logo from '../public/logo.png';
-import logoSmall from '../public/logo-small.png';
+import logo from '../src/assets/logo.png';
+import logoSmall from '../src/assets/logo-small.png';
 import UsContainer from '../containers/UsContainer';
 import GalleryContainer from '../containers/GalleryContainer';
 

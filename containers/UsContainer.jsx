@@ -1,7 +1,7 @@
 import Image from "next/image";
-import friedrice from "../public/friedrice.jpeg"
-import toast from "../public/toast.jpeg"
-import tonkatsu from "../public/tonkatsu.jpeg"
+import friedrice from "../src/assets/friedrice.jpeg"
+import toast from "../src/assets/toast.jpeg"
+import tonkatsu from "../src/assets/tonkatsu.jpeg"
 
 export default function UsContainer(props) {
     return (

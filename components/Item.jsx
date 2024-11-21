@@ -1,5 +1,5 @@
 import Image from "next/image";
-import picture from "../public/picture.png"
+import picture from "../src/assets/picture.png"
 import { useState } from "react";
 
 export default function Item(props) {
@@ -22,7 +22,7 @@ export default function Item(props) {
         {pic && <Image className="menuPic" src={picture} alt="view picture" />}
         {price && `$${price}`}
       </div>
-      {pic && hover && <Image className="foodThumb" src={require(`../public/${pic}`)} alt={name}/>}
+      {pic && hover && <Image className="foodThumb" src={require(`../src/assets/${pic}`)} alt={name}/>}
     </div>
   )
 };
