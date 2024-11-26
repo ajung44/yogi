@@ -61,7 +61,7 @@ export default function Home() {
     <>
       <Head >
         <title>Yogi - Korean American Restaurant in Suwanee, Georgia</title>
-        <meta name="description" content="Korean restaurant located 80 Horizon Dr STE 201 Suwanee, Georgia 30024. Yogi is the perfect place for lunch or dinner. We use the freshest ingredients to serve both traditional and modern Korean food like Kimbap, Tteokbokki, and variety of KBBQ dishes like Bulgogi, Spicy Pork, etc." />
+        <meta name="description" content="Welcome to Yogi, where you'll find familiar Korean dishes like Kimbap (김밥), Tteokbokki (떡볶이) to KBBQ experience like Bulgogi (불고기), Pork Belly (삼겹살), and more. Yogi is the perfect place for lunch or dinner with friends and family, and we always use the freshest ingredients available." />
         <link rel="icon" href="/logo-small.png" />
       </Head>
       <div className={styles.container}>
