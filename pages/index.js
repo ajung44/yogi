@@ -98,7 +98,7 @@ export default function Home() {
   return (
     <>
       <Head >
-        <title>Yogi - Korean American Restaurant in Suwanee, Georgia</title>
+        <title>Yogi - Korean Restaurant</title>
         <meta name="description" content="Welcome to Yogi, where you'll find familiar Korean dishes like Kimbap (김밥), Tteokbokki (떡볶이) to KBBQ experience like Bulgogi (불고기), Pork Belly (삼겹살), and more. Yogi is the perfect place for lunch or dinner with friends and family, and we always use the freshest ingredients available." />
         <link rel="icon" href="/logo-small.png" />
         <script
